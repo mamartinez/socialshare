@@ -102,3 +102,6 @@ This module borrows from from code and ideas by:
 
 ## License
 [MIT - http://alco.mit-license.org](http://alco.mit-license.org)
+
+Only it works to iPhone 5
+From the iPhone 5S gives this error: [ERROR] :  Script Error Couldn't find module: dk.napp.social for architecture: arm64
